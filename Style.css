@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+}
+div{
+	background-color: aqua;
+	color: white;
+	width: 1200px;
+	margin: auto;
+	text-align: center;
+}
+h1{
+	font-size: 80px;
+	margin: 0;
+	background-color: aqua;
+	color: white;
+}
+h2{
+    font-size: 50px;
+    margin: 0;
+    background-color: aqua;
+    color: white;
+}
+p{
+	font-size: 20px;
+}
+
+img{
+    width: 300px;
+}
